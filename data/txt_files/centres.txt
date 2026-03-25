@@ -1,0 +1,7 @@
+ce fichier contient les informations sur les centres de RCAR, il existe 4 centres chacun dans une ville 
+les villes:Rabat Casablanca Laâyoune Jerrada
+les adresses: 
+Rabat:Espace des Patios – Bâtiment 1 - Angle Avenue Annakhil et Mehdi Benbarka - Hay Riad - Rabat 8H30 16H30 centre régional et siège
+Casablanca:CFC Casablanca Finance City Boulevard Main Street, RDC- 60 Tour Main Street 8H30 16H30 centre régional
+Laâyoune:Avenue Moulay Abdellah, Immeuble Moulay Hamdi Oueld Errachid 8H30 16H30 centre régional
+Jerrada:Espace CNRA/RCAR - Société Charbonnage du Maroc, Avenue Hassan II, Quartier Ibn Rouchd. 8H30 16H30 centre régional

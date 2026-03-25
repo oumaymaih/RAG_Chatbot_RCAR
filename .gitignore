@@ -1,0 +1,50 @@
+# -----------------------------
+# Secrets and logs
+# -----------------------------
+.env          # API keys and secrets (local only)
+app.log       # Local logs
+
+# -----------------------------
+# Python compiled files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Temporary files and backups
+# -----------------------------
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# -----------------------------
+# IDE / editor configs
+# -----------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# -----------------------------
+# Python virtual environments
+# -----------------------------
+venv/
+env/
+.venv/
+.env/
+
+# -----------------------------
+# Generated project files
+# -----------------------------
+vector_db/           # Folder for VectorDB
+*.faiss
+*.pkl
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/

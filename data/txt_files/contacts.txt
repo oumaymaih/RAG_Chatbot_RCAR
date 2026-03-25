@@ -1,0 +1,4 @@
+Ce fichier contient les données sur le centre d'appel de RCAR, il y en a un seul à Rabat
+son adresse : Ryad Business Center Avenue Annakhil, Hay Riad - B.P 2173 – Rabat, Maroc 
+numéro fix : 0537 71 81 81 
+fax : 0537 71 82 38 

@@ -1,0 +1,11 @@
+id categorie description delai delai_type conditions produit
+1 Autre Vous êtes accueillis avec courtoisie et bienveillance
+2 Autre Nous sommes joignables tous les jours ouvrés de  08h00 à 18h00  par téléphone et de 08h30 à 16h30 au niveau de nos agences. Nous traitons également vos requêtes en ligne.
+3 Information Vous recevez une réponse à vos demandes d’information dans un délai n’excédant pas 5 jours. 5 jours jours
+4 Réclamation Vous  recevez  la  notification  de  réception  de  votre  réclamation  et  l’état d’avancement de son traitement dans un délai de 10 jours après sa date de réception. 10 jours jours
+5 Paiement Pension Vous  recevez  le  paiement  de  tout  nouveau  dossier  complet  de  pension Décès ou Invalidité déposé avant le 10 du mois « M » au plus tard le 10 du mois suivant « M+1 ».   dossier complet
+6 Capital Vous recevez le paiement de votre capital dans un délai de 20 jours après la date de réception de votre demande. 20 jours jours
+7 Avance Vous recevez le paiement de l’avance RECORE dans un délai de 15 jours après la date de réception de votre contrat dument signé. 15 jours jours contrat signé RECORE
+8 Paiement Pension Vous recevez le paiement de votre première pension « RECORE » au plus tard le 27 du mois pour toute demande reçue avant le 10 du même mois. 27 du mois date fixe avant le 10 du mois RECORE
+9 Rachat Vous recevez le paiement de votre rachat dans un délai de 15 jours après la date de réception de votre demande pour toute demande reçue avant le 10 du même mois. 15 jours jours avant le 10 du mois
+10 Autre Vous recevez au plus tard tous les 27 du mois le paiement mensuel de votre pension « RECORE » 27 du mois date fixe
