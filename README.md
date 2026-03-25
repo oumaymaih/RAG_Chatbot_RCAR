@@ -70,7 +70,7 @@ No personal or sensitive information is included.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit** – Web interface
