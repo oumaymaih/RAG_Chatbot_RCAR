@@ -13,6 +13,18 @@ This project was developed as part of an internship at **CDG (Caisse de Dépôt 
 - Multi-language support: French, English, Arabic.
 
 ---
+## Architecture
+
+The chatbot follows a **RAG (Retrieval-Augmented Generation)** pipeline:
+
+1. User submits a query via the interface  
+2. Query is converted into embeddings  
+3. Semantic search is performed in the Vector Database (FAISS)  
+4. Relevant documents are retrieved  
+5. LLM (Mistral) generates a contextual response  
+6. Response is displayed to the user
+
+--- 
 
 ## Project Structure
 
@@ -57,9 +69,46 @@ All CSV files included contain only public information from RCAR/CDG (centers, c
 No personal or sensitive information is included.
 
 ---
+
+## ⚙️ Tech Stack
+
+- **Python**
+- **Streamlit** – Web interface
+- **LangChain** – RAG pipeline orchestration
+- **FAISS** – Vector database
+- **HuggingFace Embeddings**
+- **Mistral LLM**
+- **Pandas** – Data processing
+- **BeautifulSoup / Requests** – Web scraping
+---
+
 ## Preview
 
 ![Project Preview](assets/preview.png)
+
+---
+## Results
+
+- The chatbot provides **accurate and contextual answers** for RCAR-related queries.
+- Performs well on:
+  - Centers and contact information
+  - Eligibility rules
+  - General RCAR information
+- Limitations:
+  - Possible hallucinations when information is missing
+  - No conversational memory (stateless interactions)
+  - Depends on the quality and completeness of the dataset
+
+This highlights the importance of prompt design and data coverage.
+
+--- 
+## Future Improvements
+
+- Add conversational memory
+- Improve prompt engineering
+- Mobile version of the chatbot
+- Export conversations (PDF/DOCX)
+- Voice interaction support
 
 ---
 
