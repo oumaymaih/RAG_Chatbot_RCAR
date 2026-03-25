@@ -19,20 +19,30 @@ This project was developed as part of an internship at **CDG (Caisse de Dépôt 
 
 RCAR-Chatbot/
 │
+
 ├── README.md
+
 ├── SETUP.md 
+
 ├── requirements.txt
+
 ├── .gitignore
+
 ├── .env.example
+
 ├── ui_version.py
+
 ├── rag.ipynb
+
 ├── data/ 
+
 ├── assets/ 
+
 └── chatbot/ 
 
-- **SETUP.md** # Instructions d'installation et exécution
+- **SETUP.md** Instructions d'installation et exécution
 - **data/**: CSV files 
-- **assets/** # Logos and images 
+- **assets/** Logos and images 
 - **chatbot/**: Python scripts for LLM configuration, VectorDB creation, and chatbot queries. (BACKEND)
 - **ui_version.py**: Streamlit interface.  
 - **rag.ipynb**: Notebook for experiments and testing.  
