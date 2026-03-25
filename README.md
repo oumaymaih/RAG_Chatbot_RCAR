@@ -57,7 +57,7 @@ All CSV files included contain only public information from RCAR/CDG (centers, c
 No personal or sensitive information is included.
 
 ---
-## 📸 Preview
+## Preview
 
 ![Project Preview](assets/preview.png)
 
